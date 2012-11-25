@@ -22,25 +22,25 @@ GitHub is one of the most popular places to host open source code, because it's 
 Quick start
 -----------
 
-HTML5 Hacks Chapter 3 is a simple, Node.js application. 
+HTML5 Hacks Starter applications is a simple, Node.js application. 
 
 ## Getting the Hacks
 
 To access the latest code from a particular chapter, clone the repo.
 
 <pre>
-$ git clone git@github.com:html5hacks/chapter5.git
+$ git clone git@github.com:html5hacks/html5hacks-starter.git
 $ cd chapter5
 </pre>
 
-Or [download the latest release](https://github.com/html5hacks/chapter5/archive/master.zip).
+Or [download the latest release](https://github.com/html5hacks/html5hacks-starter/archive/master.zip).
 
 You can instead fork this repo by clicking the "Fork" button above
 
 Clone your fork to make a local working copy:
 
 <pre>
-$ git clone git@github.com:[your_github_username]/chapter5.git
+$ git clone git@github.com:[your_github_username]/html5hacks-starter.git
 $ cd chapter5
 </pre>
 
@@ -51,7 +51,7 @@ Install [node.js](http://nodejs.org/#download).
 Make sure your current directory is chapter5 before moving to the next step.
 
 <pre>
-$ cd [your repos path]/chapter5
+$ cd [your repos path]/html5hacks-starter
 </pre>
 
 Install dependencies using the node package manger (npm).
@@ -62,7 +62,7 @@ $ sudo npm install
 
 ## Running the App
 
-Start the chapter5 demo server from a different terminal window:
+Start the html5hacks-starter demo server from a different terminal window:
 
 <pre>
 $ node app
